@@ -1,0 +1,4 @@
+Mastodon.py==2.0.1
+tqdm==4.66.1
+requests==2.31.0
+beautifulsoup4==4.12.3
