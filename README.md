@@ -2,7 +2,9 @@
 
 usage :
 
-``` pip install -r requirements.txt ``` \n
+``` pip install -r requirements.txt ```
+
+
 ``` python mastodon-profile-scanner.py [usermame]@[instance] ```
 (attention sans les [] / without the [])
 
